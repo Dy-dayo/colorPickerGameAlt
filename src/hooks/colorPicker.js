@@ -12,6 +12,7 @@ const colorPicker= ()=>{
           message.value = `Wow! You got it. You win🥳🥳[answer: ${colors[randomNumber]}]`;
           return;
         }
+        // kdkdkd
         message.value = `You guessed wrong😛 😛.  [answer: ${colors[randomNumber]}]`;
       };
   
