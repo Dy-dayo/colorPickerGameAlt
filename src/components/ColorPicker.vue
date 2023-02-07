@@ -9,7 +9,7 @@
   </template>
   
  <script>
-import colorPicker from '../hooks/colorPicker';
+import colorPicker from '../composables/colorPicker';
 
 export default {
   name: "ColorPicker",
